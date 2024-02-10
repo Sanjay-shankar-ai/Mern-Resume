@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Header{
+    display: block;
+    padding: 20px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+}
+
+.box{
+    border-color: black;
+    border-width: 0px;
+    border-style: solid;
+    width:700px;
+    display: inline-block;
+    text-align: center;
+}
+
+.project{
+    display:flex;
+}
+
+.box1{
+    border-color: black;
+    border-width: 0px;
+    border-style: solid;
+    width:700px;
+    display: inline-block;
+    text-align: center;
+}
+
+.project2{
+    display: block;
+    text-align: center;
+}
+
+
+.head1{
+    display: flex;
+}
